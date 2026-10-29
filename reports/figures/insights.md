@@ -1,0 +1,5 @@
+- Month-to-month contract customers churn at ~43%, vs ~3% for two-year contracts.
+- Customers in their first 12 months churn the most (~47%).
+- Fiber optic users churn more than DSL users.
+- Electronic check payers churn more than other payment methods.
+- Customers without tech support churn about 3x more than those with it.
